@@ -3,7 +3,7 @@
 [![Travis](https://img.shields.io/badge/language-Mathematica-green.svg)]()
 
 <p align="center">
-<img src="preview.png" width="900" title="preview" />
+<img src="preview.PNG" width="900" title="preview" />
 </p>
 
 This is the repository that contains the Mathematica code as well as useful comments that reproduce the figures of [arxiv:2012.13932](https://arxiv.org/abs/2012.13932).
