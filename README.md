@@ -1,4 +1,4 @@
-# A w phantom transition at z<sub>t</sub><0.1 as a resolution of the Hubble tension
+# A w - M phantom transition at z<sub>t</sub><0.1 as a resolution of the Hubble tension
 
 [![Travis](https://img.shields.io/badge/language-Mathematica-green.svg)]()
 
