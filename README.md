@@ -14,7 +14,7 @@ A rapid transition of the dark energy equation of state parameter ![$w$](https:/
 
 ## Citing the paper 
 If you use any of the above codes or the figures in a published work please cite the following paper:
-<br>*A w phantom transition at z<sub>t</sub><0.1 as an approach to the Hubble tension*
+<br>*A w - M phantom transition at z<sub>t</sub><0.1 as an approach to the Hubble tension*
 <br>George Alestas, Lavrentios Kazantzidis and Leandros Perivolaropoulos, [arxiv:2012.13932](https://arxiv.org/abs/2012.13932)
 
 Any further questions/comments are welcome.
